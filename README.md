@@ -7,38 +7,14 @@
 
 
 
-# 捐赠
 
-> **如果项目有帮助到您，可以选择捐赠一些费用用于资源接口的后续版本维护，本项目长期维护**
-
-<div align=center>
-<img src="https://p.sda1.dev/13/91c5ba7d12008d1e60e618a5ffe944de/pay_wx.png" alt="CandyMuj" width="300" height="365" />
-<img src="https://p.sda1.dev/13/ddc8185e90b24e5785f0d0d0308cacce/pay_ali.jpg" alt="CandyMuj" width="300" height="365" />
 </div>
 
 
-# 防失联
 
-## **建议关注公众号**
-
-1、在微信```添加朋友-公众号```中搜索 **CandyMuj** 进行添加
-
-2、扫描下方二维码直接添加
-
-<div align=center>
-<img src="https://p.sda1.dev/13/8ee512e428148ed382f1503d7c0a0a53/wx.png" alt="CandyMuj" width="300" />
 </div>
 
 
-## 加入QQ频道
-
-> 直接点击链接即可 [https://pd.qq.com/s/33b845g08](https://pd.qq.com/s/33b845g08)
->
-> 可能极少数的QQ会提示没有权限
-
-## 加入QQ群
-
-> 群号(亦可直接点击链接一键加入) [333836146](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=YHK-CcKZxGXoRAmDzczrEXG_BtaKlJgs&authKey=zwc4tbb4N%2Bjv3P8fS3S%2BEvhRTQ56QPDvbL%2B%2Bm9Ix7XhbyrddW9bCRYw%2BiX1iYdhZ&noverify=0&group_code=333836146)
 
 
 
